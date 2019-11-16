@@ -1,0 +1,19 @@
+@import './normalize.css';
+/* @import '../../swiper/css/swiper.min.css'; */
+html, body {
+  width: 100%;
+}
+
+body, p, h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  vertical-align: top;
+}
+
+/* 自定义变量 */
+:root {
+  --color-pink: #FF8E96;
+}
